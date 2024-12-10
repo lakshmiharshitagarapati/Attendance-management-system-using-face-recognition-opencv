@@ -31,7 +31,7 @@ If a face is recognized, the system logs the user's attendance in the database o
 
 Setup Instructions
 Clone the Repository:
-git clone https://github.com/yourusername/attendance-face-recognition.git
+git clone https://github.com/lakshmiharshitagarapati/attendance-face-recognition.git
 cd attendance-face-recognition
 Prepare the Dataset:
 Place all face images in the dataset/ folder.
